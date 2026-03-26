@@ -1,0 +1,1 @@
+This repository showcases my work as a Graduate Engineer Trainee at Pharma Access Pvt Ltd, where I contributed to cleanroom design, equipment planning, and process optimization in compliance with GMP standards.
